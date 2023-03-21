@@ -8,3 +8,6 @@
 // ["1234", "1567", "-2", "computer scince"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
+string[] array1 = new string[4] {"1234", "1567", "-2", "computer scince"};
+string[] array2 = new string[array1.Length];
+
